@@ -35,3 +35,6 @@ Follow these steps to run the project locally on your machine:
 ```bash
 git clone https://github.com/your-username/note-app.git
 cd note-app
+npm install
+npm start
+
