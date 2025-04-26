@@ -1,12 +1,37 @@
-# React + Vite
+# Note App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **Note-taking app** built with **React.js**. Users can create, edit, and delete notes seamlessly with a clean and intuitive interface.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [View the live app](https://note-app-seven-rho-66.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📝 **Create Notes**: Add new notes easily.
+- ✏️ **Edit Notes**: Modify your notes whenever needed.
+- 🗑️ **Delete Notes**: Remove notes that are no longer required.
+- 📱 **Responsive Design**: Optimized for both desktop and mobile screens.
+- ⚡ **Fast and Efficient**: Seamless performance built with React.
+
+---
+
+## Technologies Used
+
+This project utilizes the following technologies:
+
+- **React.js** — A JavaScript library for building user interfaces.
+- **CSS3** — For styling and responsive design.
+- **Vercel** — A cloud platform for hosting the app.
+
+---
+
+## Getting Started
+
+Follow these steps to run the project locally on your machine:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/note-app.git
+cd note-app
