@@ -1,0 +1,9 @@
+:root {
+  --purple-color: oklch(71.4% 0.203 305.504);
+}
+
+* {
+  font-family: "Inter", sans-serif;
+}
+
+@import "tailwindcss";
